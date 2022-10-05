@@ -35,8 +35,6 @@ Maak op https://io.adafruit.com/ een nieuw dashboard aan en ga vervolgens naar d
 In het dropdown-menu met het tandwiel druk je op "New Block" en kies de Color Picker.  
 Tijdens het proces moet je een nieuwe feed aanmaken. Noem deze Color.
 
-<!--- anthonie_meijers
-aio_lpnk317H10vV84ZWvOJk2j1Z19t0 -->
 
 # Stap 5 - Code
 Volg de onderstaande stappen:
