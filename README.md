@@ -60,6 +60,7 @@ Zet je serial monitor op 115200 baud (whatever that means), zodat je de berichte
 <img src="images\baud.png" width="200px" alt="how to change serial monitor baud">
 
 Normaal gesproken staat je serial monitor op 9600 baud, maar in dit geval wordt er dan niets uitgelezen. 
+<img src="images\baud_error.png" width="200px" alt="baud error">
 
 Je kan nu in je dashboard wat je hebt aangemaakt, je kleuren kiezen die je de LEDstrip wil laten zijn. Vergeet vooral niet op save te drukken, alleen dan verandert de kleur. 
 
