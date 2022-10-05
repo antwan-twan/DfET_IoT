@@ -52,3 +52,11 @@ Volg de onderstaande stappen:
 Extra stap, maar wel nodig, want anders werkt het niet:
 
 5. Verander PIXEL_COUNT van 24 naar het juiste aantal LED's wat je hebt. In mijn geval moest ik het veranderen naar 10.
+
+
+# Stap 6 - Kleuren aanpassen
+Upload de code naar je board (je mag van te voren op 'verify' drukken, maar is niet perse nodig) en activeer daarna de serial monitor.
+Zet je serial monitor op 115200 baud (whatever that means), zodat je de berichten goed door krijgt. Normaal gesproken staat je serial monitor op 9600 baud, maar in dit geval wordt er dan niets uitgelezen. 
+
+Je kan nu in je dashboard wat je hebt aangemaakt, je kleuren kiezen die je de LEDstrip wil laten zijn. Vergeet vooral niet op save te drukken, alleen dan verandert de kleur. 
+
