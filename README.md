@@ -50,4 +50,5 @@ Volg de onderstaande stappen:
     1. Pas: #define PIXEL_PIN 5 aan naar #define PIXEL_PIN D5
 
 Extra stap, maar wel nodig, want anders werkt het niet:
+
 5. Verander PIXEL_COUNT van 24 naar het juiste aantal LED's wat je hebt. In mijn geval moest ik het veranderen naar 10.
