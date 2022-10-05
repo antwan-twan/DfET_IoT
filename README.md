@@ -52,12 +52,12 @@ Volg de onderstaande stappen:
 Extra stap, maar wel nodig, want anders werkt het niet:
 
 5. Verander PIXEL_COUNT van 24 naar het juiste aantal LED's wat je hebt. In mijn geval moest ik het veranderen naar 10.
-<img src="images\pixelcount.png" width="200px" alt="code with variables">
+<img src="images\pixelcount.png" width="375px" alt="code with variables">
 
 # Stap 6 - Kleuren aanpassen
 Upload de code naar je board (je mag van te voren op 'verify' drukken, maar is niet perse nodig) en activeer daarna de serial monitor.
 Zet je serial monitor op 115200 baud (whatever that means), zodat je de berichten goed door krijgt. 
-<img src="images\baud.png" width="375px" alt="how to change serial monitor baud">
+<img src="images\baud.png" width="200px" alt="how to change serial monitor baud">
 
 Normaal gesproken staat je serial monitor op 9600 baud, maar in dit geval wordt er dan niets uitgelezen. 
 
