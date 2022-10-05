@@ -33,8 +33,8 @@ Maak op https://io.adafruit.com/ een nieuw dashboard aan en ga vervolgens naar d
 In het dropdown-menu met het tandwiel druk je op "New Block" en kies de Color Picker.  
 Tijdens het proces moet je een nieuwe feed aanmaken. Noem deze Color.
 
-anthonie_meijers
-aio_lpnk317H10vV84ZWvOJk2j1Z19t0
+<!--- anthonie_meijers
+aio_lpnk317H10vV84ZWvOJk2j1Z19t0 -->
 
 # Stap 5 - Code
 Volg de onderstaande stappen:
@@ -43,5 +43,9 @@ Volg de onderstaande stappen:
 3. In tab ‘config.h’: voer het wifi netwerk en wachtwoord in 
     1. (De NodeMCU werkt niet op 5Ghz WiFi)
     2. Gebruik liefst de hotspot van je telefoon, dit gebruikt < 0.1 Mb data per uur, dus niet bang zijn
+    2. **LET OP!!** Bij een iPhone zet je de functie 'maximise compatability' aan, anders werkt de verbinding niet. Zelf ervaren :)
 4. in de Tab adafruit_14_Neopixel.ino
     1. Pas: #define PIXEL_PIN 5 aan naar #define PIXEL_PIN D5
+
+Extra stap, maar wel nodig, want anders werkt het niet:
+5. Verander PIXEL_COUNT van 24 naar het juiste aantal LED's wat je hebt. In mijn geval moest ik het veranderen naar 10.
