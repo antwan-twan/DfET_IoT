@@ -7,7 +7,7 @@ Zorg er ook voor dat je de juiste poort selecteert, anders kun je geen bestanden
 
 # Stap 2 - Library installeren
 Open de Library Manager van Arduino IDE
-![De Library Manager van Arduino IDE](images\libmanager.png "Library Manager")
+<img src="images\libmanager.png" width="375px" alt="de library manager van Arduino IDE">
 
 Zoek in de zoekbalk naar "Adafruit IO Arduino" en installeer "Adafruit AW9523".
 ![De Library Manager van Arduino IDE met de zoekbalk](images\libmanager2.png "Library Manager met ingevulde zoekbalk")
