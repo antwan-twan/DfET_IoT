@@ -14,7 +14,7 @@ Zoek in de zoekbalk naar "Adafruit IO Arduino" en installeer "Adafruit AW9523".
 <img src="images\libmanager2.png" width="200px" alt="de library manager van Arduino IDE met zoekbalk">
 
 Klik daarna op 'install all'.
-<img src="images\install_all.png" width="200px" alt="install all">
+<img src="images\install_all.png" width="375px" alt="install all">
 
 De installatie is gelukt als je deze melding te zien krijgt.
-<img src="install_succes.png" width="200px" alt="install success">
+<img src="images\install_succes.png" width="200px" alt="install success">
