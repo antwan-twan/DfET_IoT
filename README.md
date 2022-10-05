@@ -19,7 +19,7 @@ Klik daarna op 'install all'.
 <img src="images\install_all.png" width="375px" alt="install all">
 
 De installatie is gelukt als je deze melding te zien krijgt.  
-<img src="images\install_succes.png" width="200px" alt="install success">
+<img src="images\install_succes.png" width="375px" alt="install success">
 
 # Stap 3 - Adafruit IO
 Maak op https://io.adafruit.com/ een **gratis** account aan. 
