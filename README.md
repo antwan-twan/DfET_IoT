@@ -29,6 +29,11 @@ Kopieer vanuit je account je username en je key.
 **LET OP!** 
 Je vind je username en key **NIET** op de pagina waar je na het maken van je account op beland, maar ga terug naar io.adafruit.com en klik op de gele sleuter rechtsbovenin je scherm. 
 
+**LET OP!**
+Zorg dat je key niet ergens staat op het internet, zoals ik heb gedaan met mijn README.md file. Je krijgt dan een mail waarin staat dat je key gevonden is op je pagina. Adafruit maakt je key dan anders en dus onbruikbaar.
+
+<img src="images\keyreset.png" width="375px" alt="mail met error">
+
 # Stap 4 - Color Picker maken
 Maak op https://io.adafruit.com/ een nieuw dashboard aan en ga vervolgens naar dit dashboard. 
 
